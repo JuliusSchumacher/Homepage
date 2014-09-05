@@ -137,3 +137,11 @@ a.flink:hover {
     font-family: "Helvetica Neue", Helvetica, TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
     font-weight: 300;
 }
+
+p.cp {
+    font-family: "Helvetica Neue", Helvetica, TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+    font-weight: 300;
+    color: #999999;
+    display: inline-block;
+    float: right;
+}
